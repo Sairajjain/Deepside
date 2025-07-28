@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deepside a Deeplearning Framwork for Drug Side effect prediction
 The project titled "DeepSide – A Deep Learning Framework for Drug Side Effect Prediction" aims to improve the safety and efficiency of drug development by predicting potential adverse effects before clinical trials. Unforeseen side effects are a leading cause of drug failure, posing serious health risks and financial losses. This project addresses that problem using a deep learning-based solution that combines chemical structure data of drugs with gene expression profiles from the LINCS L1000 dataset.
 
@@ -27,3 +28,6 @@ This project demonstrates how combining bioinformatics and AI can create effecti
 
 
 
+=======
+# Deepside
+>>>>>>> 4f4393518c020cb5588f7681a6eec66d665866e6
