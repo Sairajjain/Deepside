@@ -28,6 +28,3 @@ This project demonstrates how combining bioinformatics and AI can create effecti
 
 
 
-=======
-# Deepside
->>>>>>> 4f4393518c020cb5588f7681a6eec66d665866e6
